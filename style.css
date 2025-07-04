@@ -86,7 +86,7 @@ body {
   z-index: 1;
   height: 40vh;
   width: 100%;
-  background-image: url("/assets/car.jpg");
+  background-image: url("/assets/car.webp");
   background-size: cover;
   background-position: center;
 }
